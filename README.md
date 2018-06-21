@@ -2,14 +2,10 @@
 
 ### introduction
 
-### maven
-```xml
-<dependency>
-    <groupId>com.majian.utils</groupId>
-    <artifactId>mask</artifactId>
-    <version>1.0.4</version>
-</dependency>
-```
+在信息安全愈来愈重要的今天，用户信息脱敏展示是一个很常见的问题。和用户相关的诸多信息都需要脱敏展示。比如姓名，手机号，身份证，银行卡号…………
+
+### prerequisite
+- springboot
 
 ### quick start
 1. 添加`@EnableMask`
